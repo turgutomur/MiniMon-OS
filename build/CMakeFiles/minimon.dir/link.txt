@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/minimon.dir/src/collector.cpp.o CMakeFiles/minimon.dir/src/main.cpp.o CMakeFiles/minimon.dir/src/reporter.cpp.o CMakeFiles/minimon.dir/src/utils.cpp.o CMakeFiles/minimon.dir/ui/cli.cpp.o -o minimon 

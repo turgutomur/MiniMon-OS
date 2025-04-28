@@ -1,0 +1,3 @@
+/home/omurturgut/minimon/build/CMakeFiles/minimon.dir
+/home/omurturgut/minimon/build/CMakeFiles/edit_cache.dir
+/home/omurturgut/minimon/build/CMakeFiles/rebuild_cache.dir
